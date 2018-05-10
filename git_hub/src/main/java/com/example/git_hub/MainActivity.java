@@ -3,6 +3,8 @@ package com.example.git_hub;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import java.util.Random;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -10,6 +12,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ///孙贺淞是个傻叉
-        /iiiiiiiiiiiiiiiiiiii/
+//        /iiiiiiiiiiiiiiiiiiii/
+
+
+        Random random = new Random();
+
     }
 }
