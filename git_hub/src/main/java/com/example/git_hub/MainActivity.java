@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         ///孙贺淞是个傻叉
 //        /iiiiiiiiiiiiiiiiiiii/
-
+        //时候芝on双方都比较的关键你逼迫她不能合并报告
 
         Random random = new Random();
 
